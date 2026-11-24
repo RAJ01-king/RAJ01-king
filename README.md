@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**RAJ01-king/RAJ01-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rajneesh 👋
 
-Here are some ideas to get you started:
+### Java Developer | B.Tech CSE | 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in
+Software Development, Data Structures and Algorithms.
+
+### Technical Skills
+- Java
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- MySQL
+- HTML, CSS
+
+### Currently Learning
+- Advanced DSA
+- Java Collections Framework
+- Spring Boot
+- Backend Development
+
+### Projects
+- Hand Gesture Controlled Car
+- Task Management System (Coming Soon)
+- Job Application Tracker (Coming Soon)
+
+### Coding Profiles
+- LeetCode: [My Profile](https://leetcode.com/)
+- GitHub: https://github.com/RAJ01-king
+
+### Career Goal
+Aspiring Software Developer | Open to Learning
+and Building Real-World Applications.
